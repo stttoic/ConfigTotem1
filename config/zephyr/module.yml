@@ -1,5 +1,4 @@
 name: totem_keyboard
-cmake-ext: True
 build:
   settings:
     board_root: .
