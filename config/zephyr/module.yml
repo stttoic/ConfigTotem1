@@ -1,4 +1,1 @@
 name: totem_keyboard
-build:
-  settings:
-    board_root: .
